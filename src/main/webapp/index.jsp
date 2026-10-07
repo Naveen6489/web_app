@@ -1718,14 +1718,14 @@ body.dark footer {
             <div style="display:flex;align-items:center;gap:10px;">
                 <div class="search-wrap" role="search">
                     <input type="search" id="searchInput" placeholder="Search products..." aria-label="Search" />
-                    <button id="searchBtn" aria-label="Submit search"><i class="fas fa-search"></i></button>
+                    <button id="searchBtn" aria-label="Submit search"><em class="fas fa-search"></em></button>
                 </div>
 
                 <div class="header-actions">
                     <div class="user-menu-wrap">
-                        <button class="icon-btn" id="accountBtn" title="Account" aria-label="Account"><i class="far fa-user"></i></button>
+                        <button class="icon-btn" id="accountBtn" title="Account" aria-label="Account"><em class="far fa-user"></em></button>
                         <div class="user-menu" id="userMenu">
-                            <button type="button" id="profileAction"><i class="far fa-user"></i> My Profile</button>
+                            <button type="button" id="profileAction"><em class="far fa-user"></em> My Profile</button>
                             <button type="button" id="ordersAction"><i class="fas fa-box"></i> My Orders</button>
                             <button type="button" id="signInAction"><i class="fas fa-right-to-bracket"></i> Sign In</button>
                         </div>
